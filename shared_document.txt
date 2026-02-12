@@ -4,3 +4,6 @@ CGPA : 8.97
 Name : Pandu Ranga
 Roll Number : 238W1A12C4
 CGPA : 8.83
+Name : Allu Manoj Kumar
+Roll Number : 238W1A1267
+CGPA : 8.35
