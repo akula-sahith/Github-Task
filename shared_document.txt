@@ -1,3 +1,6 @@
 Name : Sahith Akula
 Roll Number : 238W1A1266
 CGPA : 8.97
+Name : Pandu Ranga
+Roll Number : 238W1A12C4
+CGPA : 8.83
